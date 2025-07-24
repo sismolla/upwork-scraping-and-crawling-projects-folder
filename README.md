@@ -107,17 +107,6 @@ Edit
 
 ---
 
-✅ This style:
-- Uses clear markdown headings
-- Adds code blocks and icons for visual appeal
-- Makes it look more like a clean “view” when displayed on GitHub
-
-If you'd like, I can:
-✅ Generate this as a `README.md` file you can copy-paste directly  
-✅ Add shields.io badges (e.g., Python version)  
-✅ Include a sample screenshot  
-
-Just say the word! 🚀
 
 
 
